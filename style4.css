@@ -13,7 +13,7 @@ body {
 }
 body{
 
-    background-image: url(Imagenes/imagen_fondo1.jpg) ;
+    background-image: url(Imagenes/fondorutina.jpg) ;
     background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -40,23 +40,3 @@ body{
     padding:0 250px;
     margin-bottom: 25px;
 }
-.slider-frame{
-    width: 1200px;
-    height: auto;
-    margin: 50px auto 0;
-    overflow: hidden;
-    animation: slide 15s infinite;
-
-}
-.slider-frame ul {
-    display: flex;
-    padding: 0;
-    width: 400%;
-}
- .slider-frame li{
-    list-style: none;
-    width: 100%;
- }
- .slider-frame img {
-    width: 100%;
- }
